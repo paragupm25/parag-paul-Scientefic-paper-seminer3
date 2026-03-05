@@ -1,0 +1,24 @@
+{
+  "@context": "https://doi.org/10.5063/schema/codemeta-2.0",
+  "@type": "SoftwareSourceCode",
+  "name": "Opening Closing Data Extractor",
+  "description": "A Python script that retrieves opening and closing values from a dataset.",
+  "codeRepository": "https://github.com/paragupm25/parag-paul-Scientefic-paper-seminer3.git",
+  "dateCreated": "2026-03-05",
+  "dateModified": "2026-03-05",
+  "programmingLanguage": "Python",
+  "runtimePlatform": "Python 3",
+  "license": "https://opensource.org/licenses/MIT",
+  "author": {
+    "@type": "Person",
+    "givenName": "PARAG",
+    "familyName": "PAUL"
+  },
+  "keywords": [
+    "python",
+    "data extraction",
+    "opening value",
+    "closing value"
+  ],
+  "softwareVersion": "1.0.0"
+}
